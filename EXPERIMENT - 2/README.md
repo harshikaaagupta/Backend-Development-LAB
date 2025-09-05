@@ -1,5 +1,5 @@
-Experiment 2 – Backend Development Basics
-Week 1: Introduction to Backend Development
+**Experiment 2 – Backend Development Basics
+Week 1: Introduction to Backend Development**
 Objective
 
 Understand the basics of backend development and how to create RESTful APIs.
