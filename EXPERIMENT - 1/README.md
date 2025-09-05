@@ -1,20 +1,18 @@
+**Experiment 1 – Node.js File Handling and Modules**
+Objective
 
-				Experiment No 1
+To practice Node.js concepts like modules, file handling, and streams.
 
-Write code for above questions:
+Lab Activities
 
-1: Exporting nested objects and function from Module using exports Object.
+Export nested objects and functions using exports.
 
-2: Reading into a file asynchronously and writing code for handling error if file not found to read.
+Read a file asynchronously and handle errors if the file is not found.
 
-3: Reading a text file on the server using http and fs module.
+Read a text file on the server using http and fs modules.
 
-4: Write a program that uses a Readable stream to read data from a file (data.txt). Output the file content to the console. Ensure the file exists before reading, and handle any errors if the file is missing.
+Use a Readable stream to read data from a file (data.txt) and print it to the console.
 
-5: Write a program that creates a Writable stream to write a string ("Hello, Node.js!") to a file (output.txt). If the file already exists, overwrite it. Print a success message once the data is written.
+Create a Writable stream to write "Hello, Node.js!" to a file (output.txt).
 
-
-6: Write a program that demonstrates stream piping. Use a Readable stream to read data from a file (input.txt), and pipe it to a Writable stream that writes to another file (output.txt).
-
-
-
+Demonstrate stream piping by copying content from input.txt to output.txt.
