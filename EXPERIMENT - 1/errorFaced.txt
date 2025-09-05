@@ -1,0 +1,25 @@
+Experiment - 1 :
+1.Module not found
+2.Syntax error
+3.Faced a little issue in the understanding of the question.
+
+Experiment - 2:
+Found it difficult to locate the file, having file in the same folder still it was showing file not found.
+
+Experiment - 3:
+Found it again difficult to locate the file , plus there was a error which stated port in use and a few syntax error were also there.
+
+Experiment - 4:
+1. Difficulty in locating the file.
+2. Syntax error
+
+Experiment - 5:
+1. Found it difficult to overwrite in the file.
+2. Initially the output.txt file was getting created outside the problem which was an issue.
+3.Syntax error
+
+Experiment - 6:
+1. File creation
+2. Data was not being written in the output.txt file from the input.txt file.
+3. output.txt file was being created outside the folder.
+
